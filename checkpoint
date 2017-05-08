@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/Swapan/udacity/carND/CarND-Traffic-Sign-Classifier-Project/train_model.ckpt"
+all_model_checkpoint_paths: "/Users/Swapan/udacity/carND/CarND-Traffic-Sign-Classifier-Project/train_model.ckpt"
